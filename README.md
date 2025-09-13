@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Franyeli De Leon Santana<br>💻 Estudiante de Desarrollo y Administración de Sistemas Informáticos<br>🎨 Me gusta el Diseño Gráfico y el Diseño Web
+👋 Hola, soy Yaneuris Santana<br>💻 Estudiante de Desarrollo y Administración de Sistemas Informáticos<br>🎨 Me gusta el Diseño Gráfico y el Diseño Web
 
 
 # 💻 Tech Stack:
